@@ -112,4 +112,5 @@ The dashboard displays:
 
 ## 📊 Dashboard
 
-![Dashboard]("Screenshot 2026-08-02 130627.png")
+<img width="554" height="384" alt="Screenshot 2026-08-02 130627" src="https://github.com/user-attachments/assets/224e2d08-8ee6-482c-ae8a-070e6e5d8518" />
+
