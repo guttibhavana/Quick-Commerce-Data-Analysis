@@ -107,3 +107,9 @@ The dashboard displays:
 * Data Visualization
 * Dashboard Creation
 * Business Insight Generation
+
+---
+
+## 📊 Dashboard
+
+![Dashboard]("Screenshot 2026-08-02 130627.png")
